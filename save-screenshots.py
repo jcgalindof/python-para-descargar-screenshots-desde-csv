@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# asegúrate de instalar pandas pip install pandas y selenium pip install selenium
+# ah y también webdriver pip install webdriver-manager
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
